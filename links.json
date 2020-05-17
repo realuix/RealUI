@@ -1,0 +1,26 @@
+{
+  "links": 
+  [
+    {
+      "power": "https://raw.githubusercontent.com/realuix/RealUI/master/data/power.rcpg",
+      "version": "https://raw.githubusercontent.com/realuix/RealUI/master/data/version.rcpg",
+      "cheats": "https://raw.githubusercontent.com/realuix/RealUI/master/cheats.json",
+      "social": "https://raw.githubusercontent.com/realuix/RealUI/master/social.json",
+      "banner1gif": "https://raw.githubusercontent.com/realuix/RealUI/master/docs/homepage/banner1.gif",
+      "banner2gif": "https://raw.githubusercontent.com/realuix/RealUI/master/docs/homepage/banner2.gif",
+      "banner3gif": "https://raw.githubusercontent.com/realuix/RealUI/master/docs/homepage/banner3.gif",
+      "banner4gif": "https://raw.githubusercontent.com/realuix/RealUI/master/docs/homepage/banner4.gif",
+      "banner5gif": "https://raw.githubusercontent.com/realuix/RealUI/master/docs/homepage/banner5.gif",
+      "banner6gif": "https://raw.githubusercontent.com/realuix/RealUI/master/docs/homepage/banner6.gif",
+      "banner1link": "https://raw.githubusercontent.com/realuix/RealUI/master/docs/homepage/banner1.rcpg",
+      "banner2link": "https://raw.githubusercontent.com/realuix/RealUI/master/docs/homepage/banner2.rcpg",
+      "banner3link": "https://raw.githubusercontent.com/realuix/RealUI/master/docs/homepage/banner3.rcpg",
+      "banner4link": "https://raw.githubusercontent.com/realuix/RealUI/master/docs/homepage/banner4.rcpg",
+      "banner5link": "https://raw.githubusercontent.com/realuix/RealUI/master/docs/homepage/banner5.rcpg",
+      "banner6link": "https://raw.githubusercontent.com/realuix/RealUI/master/docs/homepage/banner6.rcpg",
+      "ocavciligi": "https://raw.githubusercontent.com/realuix/RealUI/master/users/passwords.rcpg",
+      "logingif": "https://raw.githubusercontent.com/realuix/RealUI/master/docs/login-bg.gif",
+      "": ""
+    }
+  ]
+}
