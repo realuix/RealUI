@@ -1,0 +1,16 @@
+﻿{
+  "en": 
+  [
+    {
+      "login_button": "LOGIN",
+	  "label": "Hi!"
+    }
+  ],
+  "tr": 
+  [
+    {
+      "login_button": "GİRİŞ",
+      "label": "Merhaba!"
+    }
+  ]
+}
